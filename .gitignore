@@ -1,0 +1,10 @@
+# Editor directories and files
+.vscode
+.idea
+
+# Dependency directory
+__pycache__
+
+# OS metadata
+.DS_Store
+Thumbs.db
